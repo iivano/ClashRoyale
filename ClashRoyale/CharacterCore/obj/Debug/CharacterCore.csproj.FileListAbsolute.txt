@@ -1,0 +1,5 @@
+C:\Users\Igor\source\repos\ClashRoyale\CharacterCore\bin\Debug\CharacterCore.dll.config
+C:\Users\Igor\source\repos\ClashRoyale\CharacterCore\bin\Debug\CharacterCore.dll
+C:\Users\Igor\source\repos\ClashRoyale\CharacterCore\bin\Debug\CharacterCore.pdb
+C:\Users\Igor\source\repos\ClashRoyale\CharacterCore\obj\Debug\CharacterCore.dll
+C:\Users\Igor\source\repos\ClashRoyale\CharacterCore\obj\Debug\CharacterCore.pdb
