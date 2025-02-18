@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/* 
+-- Change Log:
+-- Updated Hit point from 122 to 150.
+*/
 
 namespace ClashRoyale
 {
@@ -30,7 +34,7 @@ namespace ClashRoyale
         }
         protected override void SetHitPoints()
         {
-            HitPoints = random.Next(110, 122);
+            HitPoints = random.Next(110, 150);
         }
         protected override void SetDamage()
         {
